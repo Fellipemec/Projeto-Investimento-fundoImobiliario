@@ -22,9 +22,7 @@ Abaixo está a interface do simulador com os módulos de configuração, cálcul
 
 ![Simulador de Investimentos](image.png)
 
-*(Observação: certifique-se de que a imagem na pasta `/images` tenha o mesmo nome do link acima).*
-
----
+--
 
 ## 🧩 Estrutura da Planilha
 
